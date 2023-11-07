@@ -12,13 +12,13 @@ export function Home() {
           What is this?
         </h2>
         <p style={{ wordWrap: 'break-word' }}>
-          An open source, decentralized casino built on Gamba. Copy this platform with your own branding and start earning fees on every bet.
+          An open source, decentralized casino built by Ian One.
         </p>
         <div style={{ display: 'flex', gap: '10px' }}>
           <Button
             as="a"
             color="white"
-            href="https://gamba.so"
+            href="http://twofoldi.com"
             target="_blank"
             icon={<Icon.ExternalLink />}
           >
